@@ -1,0 +1,14 @@
+[[pages]]
+path = "pages/map.py"
+name = ""
+icon = "🗺️"
+
+[[pages]]
+path = "pages/game.py"
+name = "Juego"
+icon = "🎮"
+
+[[pages]]
+path = "pages/info.py"
+name = "Info"
+icon = ":books:"
